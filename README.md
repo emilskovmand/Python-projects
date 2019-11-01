@@ -9,6 +9,4 @@ ST-Projects is my first scripts, not worth looking at.
 
 Folders worth looking at:
 
-**
-Word-Counter
-**
+**Word-Counter**
