@@ -1,4 +1,4 @@
-The Python file will search through our txt file and find the words:
+The Python file will search through our txt file and find the words and give it its estimated word index:
 
     "socrates",
     "critias",
