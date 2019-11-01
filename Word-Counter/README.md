@@ -20,14 +20,25 @@ If two words are within a range of 600 of each other in the text, the counter wi
     
     
 The terminals output : 
+
   Disse ord er indenfor en rækkevidde på 600 ord af hinanden.
+  
   Socrates & Critias: 263
+  
   Socrates & Timaeus: 342
+  
   Socrates & Hermocrates: 71
+  
   Socrates & Plato: 19
+  
   Critias & Timaeus: 6
+  
   Critias & Hermocrates: 11
+  
   Critias & Plato: 2
+  
   Timaeus & Hermocrates: 70
+  
   Timaeus & Plato: 20
+  
   Hermocrates & Plato: 2
