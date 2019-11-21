@@ -13,6 +13,6 @@ Put the "PythonSorter" folder inside a directory and all listed files inside our
 I recommend making a batch file to make the python directory run, just dump your batch into the desired directory and run it. That should be it.
 
 ```
-call & C:/Users/%USERNAME%/Anaconda3/python.exe c:/Users/%USERNAME%/Desktop/Fedt/PythonSorter/main.py
+call & C:/Users/%USERNAME%/Anaconda3/python.exe c:/Users/%USERNAME%/PATH/TO/FILE/main.py
 echo "Finished"
-```
+```P
