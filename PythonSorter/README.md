@@ -15,4 +15,4 @@ I recommend making a batch file to make the python directory run, just dump your
 ```
 call & C:/Users/%USERNAME%/Anaconda3/python.exe c:/Users/%USERNAME%/PATH/TO/FILE/main.py
 echo "Finished"
-```P
+```
