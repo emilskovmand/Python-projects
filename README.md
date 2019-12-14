@@ -4,6 +4,6 @@ ST-Projects is my first scripts, not worth looking at.
 
 _Folders worth looking at:_
 
-**Word-Counter**
+**RelationCounter** _An upgraded version of "WordCounter"_
 
 **PythonSorter**
