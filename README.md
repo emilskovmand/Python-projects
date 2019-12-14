@@ -1,6 +1,6 @@
 # Python-projects
 Started August 2019
-ST-Projects is my first scripts, not worth looking at.
+ST-Projects are my first scripts, not worth looking at.
 
 _Folders worth looking at:_
 
