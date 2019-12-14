@@ -1,4 +1,4 @@
-#RelationCounter for my friends "SOP" 
+# RelationCounter for my friends "SOP" 
 
 This is kinda an upgraded and more updated version of my "WordCounter" since this one isn't static, and just need sheet and docs links.
 
@@ -8,4 +8,4 @@ After that we check and save each word that matches the words in our combination
 
 Lastly we output the amount of times each combination has two index_number in two different arrays which are within a radius of _1000_.
 
-###The output can be seen in the output.txt file.
+### The output can be seen in the output.txt file.
